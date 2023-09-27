@@ -18,8 +18,7 @@ Consultant | Delivery Manager | Scrum Master | Yogi
 
 - :zap: In my free time, I teach yoga, Scuba & Free Dive & hike up big hills with my dog. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+- :mailbox:How to reach me: lex.smith@live.com
 <br></br>
 
 
@@ -42,11 +41,11 @@ Consultant | Delivery Manager | Scrum Master | Yogi
 
 ### 💻 Deployed Projects :
 
-🚂 AInigrams Game: Northcoders Final Project (week 11-13): https://ai-nagrams.netlify.app/
+🚂 Multi-Player Anagram Game: Northcoders Final Project (week 11-13): https://ai-nagrams.netlify.app/
 
 🍎 NC-News: Solo Full-Stack Project (week 10): https://lexs-nc-news.netlify.app/
 
-🍐 Interactive Map Quiz: Dom Manipulation Project (week 8): https://european-map-quiz.onrender.com/
+🍐 Interactive Map Quiz: Pure HTML/CSS Project (week 8): https://european-map-quiz.onrender.com/
 
 <br></br>
 
