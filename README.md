@@ -42,11 +42,11 @@ Consultant | Delivery Manager | Scrum Master | Yogi
 
 ### 💻 Deployed Projects :
 
-🚂 AInigrams Game: Northcoders Final Project: https://ai-nagrams.netlify.app/
+🚂 AInigrams Game: Northcoders Final Project (week 11-13): https://ai-nagrams.netlify.app/
 
-🍎 NC-News: Solo Full-Stack Project: https://lexs-nc-news.netlify.app/
+🍎 NC-News: Solo Full-Stack Project (week 10): https://lexs-nc-news.netlify.app/
 
-🍐 Interactive Map Quiz: Dom Manipulation Project: https://european-map-quiz.onrender.com/
+🍐 Interactive Map Quiz: Dom Manipulation Project (week 8): https://european-map-quiz.onrender.com/
 
 <br></br>
 
