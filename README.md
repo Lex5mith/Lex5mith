@@ -16,7 +16,7 @@ Consultant | Delivery Manager | Scrum Master | Yogi
 - :telescope: I’m actively seeking a Scum Master role in an exciting and forward thinking dev team.
 
 
-- :zap: In my free time, I teach yoga, Scuba & Free Dive & hike up big hills with my dog. 
+- :zap: In my free time I teach yoga, train Cross-Fit, Scuba & Free Dive & hike up big hills with my dog. 
 
 - :mailbox:How to reach me: lex.smith@live.com
 <br></br>
