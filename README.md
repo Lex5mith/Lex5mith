@@ -41,7 +41,7 @@ Consultant | Delivery Manager | Scrum Master | Yogi
 
 ### 💻 Deployed Projects :
 
-🚂 Multi-Player Anagram Game: Northcoders Final Project (week 11-13): https://ai-nagrams.netlify.app/
+🚂 Multi-Player Anagram Game: Northcoders Final Project (week 11-13): https://nc-anagrams.netlify.app
 
 🍎 NC-News: Solo Full-Stack Project (week 10): https://lexs-nc-news.netlify.app/
 
